@@ -50,8 +50,16 @@ portrait_caption: >-
 #   date: Sep. 2019 - Jul. 2021
 
 news:
-  - date: [2026/01]
-    intr: SCoT, million-scale CoT dataset for 3D-LLM, is accepted by ICLR2026.
+- date: [2026/01]
+  intr: SCoT, million-scale CoT dataset for 3D-LLM, is accepted by ICLR 2026.
+- date: [2026/01]
+  intr: City-BIS is accepted by JAG (IF: 8.2).
+- date: [2025/02]
+  intr: CityAnchor, 3D-LLM for city-scale grounding, is accepted by ICLR 2025.
+- date: [2025/01]
+  intr: IPCE-Net is accepted by JAG (IF: 8.2).
+- date: [2024/03]
+  intr: RoadCorrector is accepted by IEEE TGRS (IF: 9.4).
 
 awards:
 - name: Undergraduate National Scholarship (Top 3%)
