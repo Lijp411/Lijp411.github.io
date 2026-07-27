@@ -8,8 +8,8 @@ pub_last:       ""
 abstract:       "We present a million-scale 3D visual-language dataset with CoT annotations that unifies perception, analysis, and planning tasks to advance interpretable 3D intelligence."
 cover:          assets/images/covers/scot.png
 authors:
-  - Jinpeng Li*
-  - Haiping Wang*
+  - Jinpeng Li
+  - Haiping Wang
   - Jiabin Chen
   - Yuan Liu
   - Zhen Dong†
