@@ -1,5 +1,5 @@
 ---
-title:          SCoT: Teaching 3D-LLMs to Think Spatially with Million-scale CoT Annotations
+title:          SCoT':' Teaching 3D-LLMs to Think Spatially with Million-scale CoT Annotations
 date:           2026-01-26 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Learning Representations (ICLR)"
