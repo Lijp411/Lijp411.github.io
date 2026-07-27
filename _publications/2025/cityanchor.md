@@ -1,5 +1,5 @@
 ---
-title:          CityAnchor: City-scale 3D Visual Grounding with Multi-modality LLMs
+title:          CityAnchor':' City-scale 3D Visual Grounding with Multi-modality LLMs
 date:           2025-01-10 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Learning Representations (ICLR)"
