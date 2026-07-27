@@ -1,0 +1,29 @@
+---
+title:          3DCity-LLM':' Empowering Multi-modality Large Language Models for 3D City-scale Perception and Understanding
+date:           2026-04-01 00:01:00 +0800
+selected:       true
+category:       agent
+pub:            "Arxiv"
+pub_date:       "2026"
+pub_last:       ""
+abstract: >-
+   We propose 3DCity-LLM for 3D city-scale vision-language perception and understanding, with 3DCity-LLM-1.2M dataset that comprising approximately 1.2 million high-quality samples to facilitate large-scale training.
+
+cover:          assets/images/covers/CityLLM.png
+authors:
+  - Yiping Chen*†
+  - Jinpeng Li*
+  - Wenyu Ke
+  - Yang Luo
+  - Jie Ouyang
+  - Zhongjie He
+  - Li Liu
+  - Hongchao Fan
+  - Hao Wu
+links:
+  Paper: https://arxiv.org/pdf/2603.23447
+  Code: https://github.com/Lijp411/3D-City-LLM
+---
+
+
+
