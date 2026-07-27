@@ -13,7 +13,7 @@ cover:          assets/images/covers/spatialllm.png
 authors:
   - Jiabin Chen*
   - Haiping Wang*
-  - Jinpeng Li
+  - "**Jinpeng Li**"
   - Yuan Liu†
   - Zhen Dong†
   - Bisheng Yang
