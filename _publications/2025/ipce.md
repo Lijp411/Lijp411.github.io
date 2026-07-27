@@ -6,7 +6,7 @@ pub: "International Journal of Applied Earth Observation and Geoinformation (JAG
 pub_date: "2025"
 pub_last: "Multi-modality Understanding"
 abstract: "We propose an end-to-end bimodal network IPCE-Net for simultaneous image and point cloud segmentation."
-cover: assets/images/covers/ipce.png
+cover: assets/images/covers/IPCE.png
 authors:
   - Jinpeng Li
   - Yuan Li†
