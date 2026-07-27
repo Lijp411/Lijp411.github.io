@@ -8,7 +8,7 @@ pub_last:       "Multi-modality Understanding"
 abstract:       "We propose an end-to-end bimodal network IPCE-Net for simultaneous image and point cloud segmentation."
 cover:          assets/images/covers/ipce.png
 authors:
-  - **Jinpeng Li**
+  - "**Jinpeng Li**"
   - Yuan Li†
   - Shuhang Zhang
   - Yiping Chen
