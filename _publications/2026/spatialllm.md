@@ -13,7 +13,7 @@ cover:          assets/images/covers/spatialllm.png
 authors:
   - Jiabin Chen*
   - Haiping Wang*
-  - "**Jinpeng Li**"
+  - Jinpeng Li
   - Yuan Liu†
   - Zhen Dong†
   - Bisheng Yang
@@ -21,6 +21,3 @@ links:
   Paper: https://arxiv.org/abs/2505.12703
   Code: https://github.com/WHU-USI3DV/SpatialLLM
 ---
-
-
-
