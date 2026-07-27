@@ -11,7 +11,7 @@ num_selected: 50
 {% endif %}
 
 {% if site.data.display.homepage.show_selected_publications %}
-    {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+    {% assign pubs = site.publications | sort: "order" | where: "selected", true %}
     {%
         include widgets/publication_card.html
         publications=pubs
