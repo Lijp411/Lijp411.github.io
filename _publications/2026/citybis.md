@@ -2,7 +2,7 @@
 title:          City-BIS':' City-scale building instance segmentation from LiDAR point clouds via structure-aware method
 date:           2026-01-01 00:01:00 +0800
 selected:       true
-pub:            "International Journal of Applied Earth Observation and Geoinformation (IF:8.2)"
+pub:            "2026 International Journal of Applied Earth Observation and Geoinformation (IF:8.2)"
 pub_date:       "2026"
 pub_last:       "3D Instance Segmentation"
 abstract:       "We present a novel pipeline to achieve both efficient building semantic segmentation and robust building instance segmentation in large-scale scene."
