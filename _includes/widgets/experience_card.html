@@ -3,32 +3,6 @@
       <div class="card border-0 shadow-sm bg-white">
           <div class="card-body p-4">
 
-              {% if site.data.profile.experience %}
-              <div class="row">
-                  <div class="col-12">
-                      <div class="mx-2 my-1">
-                          <h6>Experience</h6>
-                          <div class="row">
-                              {% for item in site.data.profile.experience %}
-                              <div class="col-12">
-                                  <div class="media mb-1">
-                                      <img src="{{ item.logo }}" alt="{{ item.name }}"
-style="width: 18px;" class="mr-1 mt-1">
-                                      <div class="media-body">
-                                          <p class="my-0">{{ item.name }}</p>
-                                          <p class="small my-0">{{ item.dept }}</p>
-                                          <p class="small my-0">{{ item.position }} <em
-class="float-right">{{ item.date }}</em></p>
-                                      </div>
-                                  </div>
-                              </div>
-                              {% endfor %}
-                          </div>
-                      </div>
-                  </div>
-              </div>
-              {% endif %}
-
               <div class="row">
                   {% if site.data.profile.education %}
                   <div class="col-md-6">
