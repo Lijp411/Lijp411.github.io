@@ -1,6 +1,5 @@
 ---
-title: "IPCE-Net: Image-point cloud embedding network for simultaneous image-based farmland instance extraction and point
-cloud-based semantic segmentation"
+title: "IPCE-Net: Image-point cloud embedding network for simultaneous image-based farmland instance extraction and point cloud-based semantic segmentation"
 date: "2025-02"
 selected: true
 pub: "International Journal of Applied Earth Observation and Geoinformation (JAG)"
