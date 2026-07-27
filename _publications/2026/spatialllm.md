@@ -2,6 +2,7 @@
 title:          SpatialLLM':' From Multi-modality Data to Urban Spatial Intelligence
 date:           2026-02-14 00:01:00 +0800
 selected:       true
+order: 4
 category:       agent
 pub:            "International Journal of Applied Earth Observation and Geoinformation (IF:8.2)"
 pub_date:       "2026"
