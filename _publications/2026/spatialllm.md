@@ -3,7 +3,7 @@ title:          SpatialLLM':' From Multi-modality Data to Urban Spatial Intellig
 date:           2026-02-14 00:01:00 +0800
 selected:       true
 category:       agent
-pub:            "International Journal of Applied Earth Observation and Geoinformation (IF:8.2)"
+pub:            "2026 International Journal of Applied Earth Observation and Geoinformation (IF:8.2)"
 pub_date:       "2026"
 pub_last:       "3D-Large Language Model"
 abstract: >-
