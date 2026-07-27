@@ -2,6 +2,7 @@
 title:          3DCity-LLM':' Empowering Multi-modality Large Language Models for 3D City-scale Perception and Understanding
 date:           2026-04-01 00:01:00 +0800
 selected:       true
+order: 3
 category:       agent
 pub:            "Arxiv"
 pub_date:       "2026"
