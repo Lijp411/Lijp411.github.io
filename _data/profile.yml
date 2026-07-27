@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Jinpeng Li"
 
 positions:
-- name: Ph.D. Student @ WHU (2024-Now)
+- name: M. S. @ WHU (2024-Now)
 
 email: "lijp57@whu.edu.cn"
 # cv_link: link-to-your-cv-file
@@ -16,16 +16,21 @@ github: Lijp411
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+# short_bio_text_justify: false
+# short_bio: >-
+#   <p>
+#     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+#   </p>
+#   <p>
+#     There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
+#     and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
+#     as well as being common in domestic longhair and domestic shorthair cats.
+#   </p>
+
 short_bio: >-
-  <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
-  </p>
+  I'm a Master Student at LIESMARS, Wuhan University, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a>, 
+  Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>, Assistant Prof. <a href="https://liuyuan-pal.github.io">Yuan Liu</a> and 
+  Research Assistant Prof. <a href="https://hpwang-whu.github.io">Haiping Wang</a> from HKUST. My research focuses on 3D Agent Systems and Explorable World Models.
 
 experience:
 - name: Sun Yat-sen University
