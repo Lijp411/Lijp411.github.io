@@ -1,5 +1,5 @@
 ---
-title:          IPCE-Net':' City-scale 3D Visual Grounding with Multi-modality LLMs
+title:          IPCE-Net':' Image-point cloud embedding network for simultaneous image-based farmland instance extraction and point cloud-based semantic segmentation
 date:           2025-02
 selected:       true
 pub:            "International Journal of Applied Earth Observation and Geoinformation (JAG)"
@@ -13,5 +13,5 @@ authors:
   - Shuhang Zhang
   - Yiping Chen
 links:
-  Paper: https://iclr.cc/virtual/2025/poster/30802](https://www.sciencedirect.com/science/article/pii/S1569843225000081
+  Paper: https://www.sciencedirect.com/science/article/pii/S1569843225000081
 ---
