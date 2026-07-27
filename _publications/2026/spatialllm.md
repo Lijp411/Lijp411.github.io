@@ -9,7 +9,7 @@ pub_last:       "3D-Large Language Model"
 abstract: >-
   Structured descriptions of raw spatial data equip LLM with zero-shot execution of advanced spatial intelligence tasks, including urban planning, ecological analysis, traffic management, etc.. Multi-field knowledge, context length, and reasoning ability are key factors influencing LLM performances in urban analysis.
   
-cover:          assets/images/covers/spatialLLM.png
+cover:          assets/images/covers/spatialllm.png
 authors:
   - Jiabin Chen*
   - Haiping Wang*
