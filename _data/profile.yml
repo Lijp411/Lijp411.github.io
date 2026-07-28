@@ -32,21 +32,21 @@ short_bio: >-
   Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>, closely working with Assistant Prof. <a href="https://liuyuan-pal.github.io">Yuan Liu</a> and 
   Research Assistant Prof. <a href="https://hpwang-whu.github.io">Haiping Wang</a> from HKUST. My research focuses on 3D Agent Systems and Explorable World Models.
 
-# experience:
-# - name: Sun Yat-sen University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Undergraduate Student
-#   date: Sep. 2020 - Jul. 2024
+experience:
+- name: Sun Yat-sen University
+  logo: /assets/images/badges/PKU_red.png
+  position: Undergraduate Student
+  date: Sep. 2020 - Jul. 2024
 
-# - name: WuHan University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Master Student
-#   date: Sep. 2024 - Jul. 2027
+- name: WuHan University
+  logo: /assets/images/badges/PKU_red.png
+  position: Master Student
+  date: Sep. 2024 - Jul. 2027
 
-# - name: Tencent HunYuan3D
-#   logo: /assets/images/badges/PKU_red.png
-# #  position: QingYun Program Intern
-#   date: Mar. 2026 - Now
+- name: Tencent HunYuan3D
+  logo: /assets/images/badges/PKU_red.png
+#  position: QingYun Program Intern
+  date: Mar. 2026 - Now
 
 portrait_url: /assets/images/photos/photo.jpg
 portrait_caption: >-
