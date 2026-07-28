@@ -3,7 +3,7 @@ title: "RoadCorrector: A Structure-Aware Road Extraction Method for Road Connect
 date: 2024-04-01 00:01:00 +0800
 selected: true
 order: 5
-pub: "IEEE Transactions on Geoscience and Remote Sensing (T-GRS, IF:9.6)"
+pub: "IEEE Transactions on Geoscience and Remote Sensing (T-GRS, CCF-B, IF:9.6)"
 pub_date: "2024"
 pub_last: ""
 abstract: "We propose RoadCorrector to enhance the road integrity and connectivity by adding structure-related assistance branches and two correction modules"
