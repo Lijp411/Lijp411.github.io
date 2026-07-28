@@ -67,11 +67,11 @@ portrait_caption: >-
 
 news:
 - date: [2026/01]
-  intr: "SCoT, million-scale CoT dataset for 3D-LLM, is accepted by ICLR (CCF-A)"
+  intr: "SCoT, million-scale CoT dataset for 3D-VLMs, is accepted by ICLR (CCF-A)"
 - date: [2026/01]
   intr: "City-BIS is accepted by JAG (IF: 8.2)."
 - date: [2025/02]
-  intr: "CityAnchor, 3D-LLM for city-scale grounding, is accepted by ICLR (CCF-A)"
+  intr: "CityAnchor, LLM-as-Agent for city-scale grounding, is accepted by ICLR (CCF-A)"
 - date: [2025/01]
   intr: "IPCE-Net is accepted by JAG (IF: 8.2)."
 - date: [2024/03]
