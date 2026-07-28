@@ -30,21 +30,22 @@ github: Lijp411
 short_bio: >-
   I'm a Master Student at LIESMARS, Wuhan University, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and 
   Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>, closely working with Assistant Prof. <a href="https://liuyuan-pal.github.io">Yuan Liu</a> and 
-  Research Assistant Prof. <a href="https://hpwang-whu.github.io">Haiping Wang</a> from HKUST. My research focuses on 3D Agent Systems and Explorable World Models.
+  Research Assistant Prof. <a href="https://hpwang-whu.github.io">Haiping Wang</a> from HKUST. Before that, I received my B.S. degree from SGES of Sun Yat-sen University. My research focuses on 3D Agent Systems and Explorable World Models.
 
 experience:
 - name: Sun Yat-sen University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/covers/sysu.png
   position: Undergraduate Student
   date: Sep. 2020 - Jul. 2024
 
 - name: WuHan University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/covers/whu.png
   position: Master Student
   date: Sep. 2024 - Jul. 2027
 
 - name: Tencent HunYuan3D
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/covers/Tencent.png
+  position: Intern
 #  position: QingYun Program Intern
   date: Mar. 2026 - Now
 
