@@ -67,7 +67,7 @@ portrait_caption: >-
 
 news:
 - date: [2026/08]
-  intr: "<a href="https://arxiv.org/pdf/2608.05248" target="_blank">WorldClaw (HunYuan3D Technical Report)</a> is available!"
+  intr: '<a href="https://arxiv.org/pdf/2608.05248" target="_blank">WorldClaw (HunYuan3D Technical Report)</a> is available!'
 - date: [2026/01]
   intr: "SCoT, million-scale CoT dataset for 3D-VLMs, is accepted by ICLR (CCF-A)"
 - date: [2026/01]
