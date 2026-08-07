@@ -2,7 +2,7 @@
 title:          WorldClaw':' Agentic Open-World Generation at Scale
 date:           2026-08-05 00:01:00 +0800
 selected:       true
-order: 1
+order: 0
 pub:            "HunYuan3D Technical Report"
 pub_date:       "2026"
 pub_last:       ""
