@@ -7,7 +7,7 @@ pub:            "HunYuan3D Technical Report"
 pub_date:       "2026"
 pub_last:       ""
 abstract:       "We present WorldClaw, an agentic pipeline for fully automatic, high-quality open-world 3D scene generation from text descriptions."
-cover:          assets/images/covers/scot.png
+video:          assets/WalkVideo_10s.mp4
 authors:
   - Chunchao Guo
   - Jinpeng Li
