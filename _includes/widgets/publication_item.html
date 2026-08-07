@@ -2,7 +2,7 @@
 <div class="d-none d-md-block">
     <div class="row no-gutters {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray">
         <div class="col-md-3 col-xl-2 mb-md-0 p-md-3 d-flex align-items-center">
-            {%- if item.cover -%}
+            {%- if item.video -%}
             <video class="w-100 rounded-sm" src="{{ item.video | relative_url }}#t=0.1" controls playsinline preload="metadata"></video>
             {%- elsif item.cover -%}
             <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
