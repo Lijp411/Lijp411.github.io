@@ -80,8 +80,8 @@ news:
   intr: "RoadCorrector is accepted by IEEE TGRS (CCF-B, IF: 9.4)."
 
 awards:
-# - name: Tencent Project UP（青云计划）
-#   date: 2026
+- name: Tencent Project UP（青云计划）
+  date: 2026
 - name: National Scholarship for Postgraduates (Top 3%)
   date: 2023
 - name: First-Class Scholarship
