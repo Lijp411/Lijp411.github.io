@@ -67,21 +67,21 @@ portrait_url: /assets/images/photos/photo.jpg
 
 news:
 - date: [2026/08]
-  intr: '<a href="https://arxiv.org/pdf/2608.05248" target="_blank">WorldClaw (HunYuan3D Technical Report)</a> is available!'
+  intr: '<a href="https://arxiv.org/pdf/2608.05248" target="_blank">WorldClaw</a>(HunYuan3D Technical Report) is available!'
 - date: [2026/01]
-  intr: "SCoT, million-scale CoT dataset for 3D-VLMs, is accepted by ICLR (CCF-A)"
+  intr: '<a href="https://openreview.net/challenge?redirect=%2Fpdf%3Fid%3D5Tph6wFMOm" target="_blank">SCoT</a>, million-scale CoT dataset for 3D-VLMs, is accepted by ICLR (CCF-A).'
 - date: [2026/01]
-  intr: "City-BIS is accepted by JAG (IF: 8.2)."
+  intr: '<a href="https://www.sciencedirect.com/science/article/pii/S1569843226000026" target="_blank">City-BIS</a> is accepted by JAG (IF: 8.2).'
 - date: [2025/02]
-  intr: "CityAnchor, LLM-as-Agent for object grounding, is accepted by ICLR (CCF-A)"
+  intr: '<a href="https://iclr.cc/virtual/2025/poster/30802" target="_blank">CityAnchor</a>, LLM-as-Agent for object grounding, is accepted by ICLR (CCF-A)'
 - date: [2025/01]
-  intr: "IPCE-Net is accepted by JAG (IF: 8.2)."
+  intr: '<a href="https://www.sciencedirect.com/science/article/pii/S1569843225000081" target="_blank">IPCE-Net</a> is accepted by JAG (IF: 8.2).'
 - date: [2024/03]
-  intr: "RoadCorrector is accepted by IEEE TGRS (CCF-B, IF: 9.4)."
+  intr: '<a href="https://ieeexplore.ieee.org/abstract/document/10478083" target="_blank">RoadCorrector</a> is accepted by IEEE TGRS (CCF-B, IF: 9.4).'
 
 awards:
-# - name: Tencent Project UP（青云计划）
-#   date: 2026
+- name: Tencent Project UP（青云计划）
+  date: 2026
 - name: National Scholarship for Postgraduates (Top 3%)
   date: 2023
 - name: First-Class Scholarship
