@@ -16,4 +16,5 @@ authors:
 links:
   Paper: https://arxiv.org/pdf/2608.05248
   Project Page: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/
+  Twitter: https://x.com/TencentHunyuan/status/2087068591296536755
 ---
